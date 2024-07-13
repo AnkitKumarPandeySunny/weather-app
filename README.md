@@ -19,6 +19,17 @@ Features
  Weather News & Insights: Latest weather news and expert insights
 
   Screenshots
+  ![Screenshot (36)](https://github.com/user-attachments/assets/acb717cd-e7d6-4df0-8317-ef807e59e7c8)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/4c67aef9-493b-41f2-b139-759ea17a2e2a)
+
+auto location detect
+
+![Screenshot (39)](https://github.com/user-attachments/assets/b59cbc04-8de1-428a-baa7-dc73a8a56430)
+
+
+  
+
 
 
   License
