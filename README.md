@@ -5,7 +5,7 @@ WeatherWise is an intuitive weather application that provides real-time updates,
 
 
 Features
-
+features
 
    Real-Time Updates: Get the latest weather information.
  Accurate Forecasts: Hourly, daily, and weekly forecasts.
